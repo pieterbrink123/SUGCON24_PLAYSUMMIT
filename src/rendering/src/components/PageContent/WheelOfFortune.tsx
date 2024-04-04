@@ -13,11 +13,11 @@ const WheelOfFortune = (props: ComponentProps): JSX.Element => {
   useEffect(() => {
     (async () => {
       const response = await fetch(
-        'https://api.jsonstorage.net/v1/json/5725bb31-8a05-4754-ba35-8f12024e78e4/b2e94e05-2bd3-4d9a-a2e4-c728cc6b76f8'
+        'https://api.jsonstorage.net/v1/json/529d8e8b-f479-41b3-acda-cfe3168b5b0c/bcdec8e9-0209-49f2-8187-ed44a519d481'
       );
       const parsed = await response.json();
-      const emails = parsed.users.map(function (item: { email: string }) {
-        return item.email;
+      const emails = parsed.names.map(function (item: { name: string }) {
+        return item.name;
       });
 
       setData(emails);
@@ -72,7 +72,6 @@ const WheelOfFortune = (props: ComponentProps): JSX.Element => {
         upDuration={100}
         downDuration={1000}
       />
-      )
     </div>
   );
 };
