@@ -1,0 +1,21 @@
+﻿---
+ID: "344b8c93-66aa-4e71-8346-0810ddc2a160"
+Parent: "36215802-cd12-4db9-9ce9-9bcbf8f43db6"
+Template: "49c111d0-6867-4798-a724-1f103166e6e9"
+Path: /sitecore/content/test/test/Presentation/Headless Variants/Navigation
+BranchID: "70519928-c595-4b2b-bb35-75022feecc4c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/signpost.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A535969-7E57-4951-86D3-5E12DBFF31D3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b48ec19b-8d2f-4b17-bd0e-0be0fdced31e"

@@ -4,8 +4,8 @@
   "ref": "3f3de3ec-7d9d-4b7f-b0da-b2974b4789f4",
   "name": "embedded_{scope}_68edf2febbdf4c05ab821f5a880e6b78_en",
   "modifiedByRef": "UsQ4dFnLMklHuDXU8acKstHeXEC65tgU@clients",
-  "modifiedAt": "2024-04-03T14:00:41.5Z",
-  "revision": 2,
+  "modifiedAt": "2024-04-03T18:26:25.12Z",
+  "revision": 4,
   "archived": false,
   "friendlyId": "embedded_{scope}_68edf2febbdf4c05ab821f5a880e6b78_en",
   "type": "INTERACTIVE_API_FLOW",
@@ -20,7 +20,7 @@
   "traffic": {
     "type": "audienceTraffic",
     "weightingAlgorithm": "USER_DEFINED",
-    "modifiedAt": "2024-04-03T14:00:41.519Z",
+    "modifiedAt": "2024-04-03T18:26:25.129Z",
     "splits": [
       {
         "template": "{\"variantId\": \"ee12ae1fa982465598b5d270b963b1d6\"}",
@@ -64,7 +64,7 @@
   "variants": [],
   "transpiledVariants": [
     {
-      "ref": "4037183b-0cbb-4352-aadb-3e7e487d2c12",
+      "ref": "acf254a6-5655-4cd5-b2bd-467d9cab302d",
       "name": "Visited a specific page",
       "tasks": [
         {
@@ -106,5 +106,6 @@
     "baseValue": 0.15,
     "minimumDetectableDifference": 0.02,
     "confidenceLevel": 0.95
-  }
+  },
+  "notificationEnabled": false
 }

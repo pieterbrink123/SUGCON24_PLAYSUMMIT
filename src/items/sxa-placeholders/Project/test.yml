@@ -1,0 +1,13 @@
+﻿---
+ID: "97ebfad5-3540-4c03-8ca1-7f09cfc27394"
+Parent: "f5f0fbe3-61ad-4967-a5d8-8d760331d6a1"
+Template: "3d281bf8-5336-4686-9dd6-ab4ab5b3fd5d"
+Path: /sitecore/layout/Placeholder Settings/Project/test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d3d29f0-bd27-4b2d-b9ed-1521c5e87df3"

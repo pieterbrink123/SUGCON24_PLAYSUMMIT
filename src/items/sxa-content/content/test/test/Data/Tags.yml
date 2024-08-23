@@ -1,0 +1,13 @@
+﻿---
+ID: "eba71dfc-c13a-4c06-84ec-1b3f5bada54a"
+Parent: "0657a10d-5f0a-4dd2-8d59-08f9c605ff5d"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/test/test/Data/Tags
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7821ad3b-9f46-473a-b9bf-4b62de04fa92"

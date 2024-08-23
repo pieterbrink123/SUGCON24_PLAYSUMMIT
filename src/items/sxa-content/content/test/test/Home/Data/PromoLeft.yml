@@ -1,0 +1,27 @@
+﻿---
+ID: "99ca96a9-9c55-41f6-b760-712257369ee7"
+Parent: "39f81da7-820d-47fd-bb44-a9ee6b9bb995"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/test/test/Home/Data/PromoLeft
+BranchID: "c0db8366-5aec-41ed-b9a4-0b06b77f5d93"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{140900C2-20E6-43DA-93B7-C1E75D0B6C20}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: |
+        <h3>Latest Mountain Bikes</h3>
+        <p>The brand new mountain bikes are out now, be quick!</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f1acbf4-8bef-48af-b030-f4552588ab6f"
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{419E2FE0-E05C-478F-A33C-84071ADB5893}" />

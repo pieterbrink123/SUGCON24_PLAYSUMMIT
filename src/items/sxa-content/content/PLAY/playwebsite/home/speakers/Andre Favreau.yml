@@ -37,7 +37,7 @@ Languages:
       Value: "{63C32663-C4AF-40C0-9347-47411C130E87}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f7750011-d0d1-446c-800b-fcc6f2a4fa1e"
+      Value: "3b47a19a-bb43-4824-af5c-5ed2c3caf64c"
     - ID: "adbe3132-d415-414c-941f-9d840ebcf9cd"
       Hint: Sessions
       Value: "{9F8BBA60-5AB7-41E2-9D88-A5335D49407C}|{9E25E09B-971E-409E-AA42-8D54BA7CC570}|{F31705C9-7A5A-42DB-8651-B0665EEEC77B}"
@@ -55,17 +55,17 @@ Languages:
         At the PLAY! Summit Conference, Andre will be sharing his vision for the future of sports technology, discussing the latest trends, and offering his predictions for what's to come. His engaging and thought-provoking presentations make him a must-see speaker at the event.</p>
     - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
       Hint: JobTitle
-      Value: Professional Basketball Player
+      Value: UNRVLD CSO
     - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
       Hint: Role
       Value: Athlete
     - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
       Hint: Name
-      Value: Andre Favreau
+      Value: Steven Cassin
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Andre Favreau
     - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
       Hint: Picture
       Value: |
-        <image stylelabs-content-id="49384" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49384/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/3fcb3ce4bc0d4d778da7a3dc66fa1cb2?v=e3d5a7cb&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Andre Favreau - No background" height="4059" width="4058" />
+        <image mediaid="{112F6AA0-5B77-4AE6-B6A9-0BEB4B33BA40}" />

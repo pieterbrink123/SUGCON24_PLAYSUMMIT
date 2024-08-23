@@ -3,7 +3,6 @@ ID: "5b0f8a53-1987-4955-8820-6d61adbf0232"
 Parent: "d1d2140c-755e-43f6-8b45-9742188684fa"
 Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
 Path: /sitecore/content/PLAY/playwebsite/Presentation/Available Renderings/Page Content
-BranchID: "209f458a-5f7c-4024-9bbb-c78ad6d21abc"
 SharedFields:
 - ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
   Hint: Renderings
@@ -27,6 +26,7 @@ SharedFields:
     {4BE56F57-7867-5E91-8991-37464315D86B}
     {279A5772-ADFA-5260-88E6-AB97D5C4D90A}
     {298D16E7-CFB2-5BE9-8B8C-BBC10A72597F}
+    {C5775510-5A6B-435C-A013-BEE616BF399E}
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{EDD5B21F-2BD2-4290-81A2-68428363D312}"
@@ -37,4 +37,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5fd38e95-8a86-45ba-8ba5-abeefd3d80bc"
+      Value: "830bb373-5414-4165-a4e0-449c456e804a"

@@ -1,0 +1,30 @@
+﻿---
+ID: "f27d5635-6886-4b09-918f-48ebacb50bbc"
+Parent: "d2e97d8f-4634-41b2-ae8b-2b2d94f2d945"
+Template: "dfed4457-d760-457a-bec1-c0dccdc44381"
+Path: /sitecore/content/PLAY/playwebsite/Data/Promos/Raffle promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
+      Hint: PromoText2
+      Value: "<p>Why participate?</p><p>1) Help me out!</p><p>2) Be part of raffle at the end of this keynote*.</p><p>3) Receive the slides and (raw) recording of my first demo test run in your inbox.</p><p>------------------------------------</p><p>*only if the demo works ;)</p><p><br /></p>"
+    - ID: "28079f3a-896b-4273-be5f-59d0ebb7cd7d"
+      Hint: PromoText
+      Value: <p>SCAN THE QR</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14f33b8b-54f0-4e24-8834-c3675633ee42"
+    - ID: "c6e604c3-5371-4e67-83df-a09a5ea66249"
+      Hint: PromoText3
+      Value: <p>PARTICIPATE</p>
+    - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
+      Hint: PromoLink
+      Value: |
+        <link linktype="external" url="/landing-pages/giveaway" text="THANK YOU!"/>
+    - ID: "f94b9858-c439-4291-863b-757b536c8b65"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{AF221256-A84A-437B-9B43-3E61C66758A3}" />

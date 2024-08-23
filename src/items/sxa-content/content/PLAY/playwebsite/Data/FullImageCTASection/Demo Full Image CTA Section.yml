@@ -8,9 +8,12 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ed7d2138-36b1-4b34-830f-4cc6bf03271d"
+      Value: "cdea6f47-f9ce-42c1-8086-16b1c5ae3193"
     - ID: "d23c3bb7-0146-4e73-baeb-a8ccfa113683"
       Hint: callToActionLink
       Value: |
@@ -18,4 +21,4 @@ Languages:
     - ID: "d73a3363-eaeb-4abb-bf7e-c649691f436f"
       Hint: backgroundImage
       Value: |
-        <image mediaid="{09085896-2355-53E8-8F71-BB9761E60380}" />
+        <image mediaid="bb5a89eb-0842-4d80-bddb-22a77890b9e4" />

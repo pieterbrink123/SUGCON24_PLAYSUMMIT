@@ -1,0 +1,13 @@
+﻿---
+ID: "81783f4c-fb10-43e5-8e30-8506f479d36d"
+Parent: "1995806f-0a84-42b5-93b0-88f0e2ff872c"
+Template: "840d4a46-5503-49ec-bf9d-bd090946c63d"
+Path: /sitecore/layout/Renderings/Project/test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2e5f3b9-60dd-4322-81bc-768128687445"

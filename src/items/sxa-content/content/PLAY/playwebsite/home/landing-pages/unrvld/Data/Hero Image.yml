@@ -1,0 +1,25 @@
+﻿---
+ID: "34756fb7-9354-40d9-8381-700755440393"
+Parent: "9201b497-dd44-4d3f-933d-2b37e93d7fdd"
+Template: "3ee5e476-e843-51f1-a351-d2c3b198475a"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/unrvld/Data/Hero Image"
+BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3B749C2C-17D7-4E37-B3A4-8884E44F2305}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "7f1d47cf-4525-5f3e-b8fe-4c6ddbcefa39"
+      Hint: hero
+      Value: |
+        <image mediaid="e5d4f718-f131-40f1-be92-61ac066c9f8d" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cad0ef68-ee40-4d14-b2dc-c4df7fe83fce"

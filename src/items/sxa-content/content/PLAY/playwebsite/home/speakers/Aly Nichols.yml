@@ -40,7 +40,7 @@ Languages:
       Value: "{63C32663-C4AF-40C0-9347-47411C130E87}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fb20c0f0-312b-45bf-b26c-21758c1fe9b8"
+      Value: "1f8e7a77-4c1d-42d9-948e-1864d7ad8a65"
     - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
       Hint: Company
       Value: Pacifique
@@ -61,17 +61,17 @@ Languages:
         At the PLAY! Summit Conference, Aly will share her entrepreneurial journey, her unique philosophy towards fitness, and her vision for the future of the wellness industry. Her talks are known to be insightful, inspiring, and full of practical advice, making her a must-see speaker at the conference.</p>
     - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
       Hint: JobTitle
-      Value: Creative Director
+      Value: UNRVLD CEO
     - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
       Hint: Role
       Value: Sponsor
     - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
       Hint: Name
-      Value: Aly Nichols
+      Value: Dan Berry
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Aly Nichols
     - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
       Hint: Picture
       Value: |
-        <image stylelabs-content-id="49204" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49204/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/4deb61f4e691456a9eaa34243b85bd34?v=0c3d0bf1&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Aly Nichols - No background" height="3504" width="3503" />
+        <image mediaid="{EFBE368D-2644-47A4-9EB9-2F74E2AB80DA}" />

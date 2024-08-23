@@ -1,0 +1,17 @@
+﻿---
+ID: "240feab9-47f8-47a3-b855-f1cc4424eca9"
+Parent: "d911d1af-d6d2-4058-af0c-64d741227aa8"
+Template: "4d50cdae-c2d9-4de8-b080-8f992bfb1b55"
+Path: /sitecore/content/test/test/Presentation/Headless Variants/Image/Banner
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d5720a0f-bc0d-42fd-a9f6-7673ebb1aa75"

@@ -1,0 +1,13 @@
+﻿---
+ID: "030e459e-4a32-49b2-9573-5ca343ee5413"
+Parent: "80236a51-a410-489a-82cb-a13faaec9aa8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/test/test/Sitemaps/test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17940366-d6e5-4bee-af30-646805afe804"

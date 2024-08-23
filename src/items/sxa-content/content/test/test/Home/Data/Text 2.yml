@@ -1,0 +1,25 @@
+﻿---
+ID: "1fe80d1e-3b57-4202-8e21-04f530efe494"
+Parent: "39f81da7-820d-47fd-bb44-a9ee6b9bb995"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/test/test/Home/Data/Text 2
+BranchID: "c0db8366-5aec-41ed-b9a4-0b06b77f5d93"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E9D560A2-9AEB-4017-8A44-C61C9D5E80A8}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <h2>In the news</h2>
+        PLAY! Summit to build new mountain biking park.&nbsp;Around 50 acres of undeveloped land connecting Des Moines and Pleasant Hill will be turned into a new mountain bike park, according to PLAY! Summit director Rich Ronald.
+        <br />
+        <br />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97e13bd8-4d79-4a05-a2e0-6764801d203a"

@@ -1,0 +1,18 @@
+﻿---
+ID: "53ea709d-4050-4d4c-a8d2-cc9717400096"
+Parent: "8daa3b6b-ac3f-4217-bfdb-b42c65229ada"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/giveaway/Data"
+BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FE83D907-A6C3-4A8B-9FA0-76B9F44262D2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b61284f8-6705-4a31-a12d-9dd8558e28fb"

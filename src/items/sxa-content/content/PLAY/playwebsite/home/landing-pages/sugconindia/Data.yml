@@ -1,0 +1,18 @@
+﻿---
+ID: "846b0ce1-2d7a-483e-a150-59433ce01769"
+Parent: "fb38ecc6-5e50-41ca-8c60-1a2da33e7bb4"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/sugconindia/Data"
+BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FE83D907-A6C3-4A8B-9FA0-76B9F44262D2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "051b511f-ad92-4c96-8562-b8b8f93fa0cd"

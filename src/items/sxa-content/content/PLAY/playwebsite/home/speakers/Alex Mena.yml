@@ -40,7 +40,7 @@ Languages:
       Value: "{01E09652-ABD7-4BB0-AD96-E609966330BD}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "349123d5-4927-4148-a10b-b4839f47ceb8"
+      Value: "8606ccc1-a16c-4d6b-b7d5-1216c7f8c1b4"
     - ID: "94f8d6fc-b9c3-41dc-8cdf-5e967d108a40"
       Hint: Company
       Value: Solstice
@@ -59,17 +59,17 @@ Languages:
         With his infectious enthusiasm and passion for fitness, Alex has inspired thousands of people to transform their lives through his speeches, workshops, and personal coaching. At the PLAY! Summit Conference, he will share his insights on the latest trends in fitness and wellness, and provide practical tips on how to stay motivated and achieve your health goals.</p>
     - ID: "d410c57e-fdc1-43f4-b028-8b313217b6f9"
       Hint: JobTitle
-      Value: International Sales Director
+      Value: Sitecore CEO
     - ID: "e2b817f9-16ac-4691-9add-ad6590d757b8"
       Hint: Role
       Value: Speaker
     - ID: "e91669e4-7a60-495f-b868-47f9b15c28b3"
       Hint: Name
-      Value: Alex Mena
+      Value: Dave O'Flanagan
     - ID: "ed69eacf-5eb2-5050-9d5b-997812318dde"
       Hint: pageTitle
       Value: Alex Mena
     - ID: "f5eb0181-f3ab-4edb-a8f2-630e72f555d9"
       Hint: Picture
       Value: |
-        <image stylelabs-content-id="49198" thumbnailsrc="https://playsummit.sitecoresandbox.cloud/api/gateway/49198/thumbnail" src="https://playsummit.sitecoresandbox.cloud/api/public/content/3625d965b17b414c8701baabd2061e38?v=2e088ca3&amp;t=profile" mediaid="" stylelabs-content-type="Image" alt="Alex Mena - No background" height="3358" width="3358" />
+        <image mediaid="{F7357552-30AD-4FAA-9296-40942113226E}" />

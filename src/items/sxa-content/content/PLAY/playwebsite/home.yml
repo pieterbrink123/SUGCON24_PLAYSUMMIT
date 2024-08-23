@@ -133,6 +133,92 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{EB2C8403-F00A-4976-8C26-75224DD8EBD1}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles" />
+            <r
+              uid="{74A3507D-B718-58C6-8C54-5DFA30D2A4E8}"
+              s:uid="{74A3507D-B718-58C6-8C54-5DFA30D2A4E8}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
+              s:uid="{9079BFE6-D63C-4BAC-AD53-5D0B06100CD1}">
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}"
+              s:uid="{368C89F1-3640-58A1-BDE0-A1C0E8426D3E}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{45FCA8EC-2A99-531D-B270-0389AB473563}"
+              s:uid="{45FCA8EC-2A99-531D-B270-0389AB473563}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{004EEEA1-32B0-4582-BD0C-FA7EFFB14182}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles=%7B98006F93-D19D-44C8-A25D-CEC93528F129%7D&amp;CSSStyles">
+              <p:da
+                name="ccb" />
+            </r>
+            <r
+              uid="{9FEB8407-087F-50FC-BCDD-4741F69796CC}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles=%7B3BC9EBFD-3ACD-4994-8D61-0BFEF358A70E%7D&amp;CSSStyles"
+              s:uid="{9FEB8407-087F-50FC-BCDD-4741F69796CC}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{47F9A467-6F47-5D35-9F6F-70D4FA338EC6}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles=%7B98006F93-D19D-44C8-A25D-CEC93528F129%7D%7C%7B1F69B9FA-24A7-435F-AFE5-16E05F34A21A%7D&amp;CSSStyles"
+              s:uid="{47F9A467-6F47-5D35-9F6F-70D4FA338EC6}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{F9156FD3-6D12-4E0B-9B1F-0D4AC1A772C7}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles"
+              s:uid="{F9156FD3-6D12-4E0B-9B1F-0D4AC1A772C7}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="rname" />
+            </r>
+            <r
+              uid="{9C37536D-E2AA-5BF2-8103-FA15D43F5121}"
+              s:uid="{9C37536D-E2AA-5BF2-8103-FA15D43F5121}">
+              <p:da
+                name="ccb" />
+              <p:da
+                name="ds" />
+              <p:da
+                name="rname" />
+            </r>
+          </d>
+        </r>
     - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
       Hint: Title
       Value: Home
@@ -144,7 +230,7 @@ Languages:
       Value: home
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "93e39e8f-98c8-483f-94cf-19ff53285bfb"
+      Value: "d076b197-715c-4496-9519-f88366fa12ae"
 - Language: "fr-CA"
   Versions:
   - Version: 1

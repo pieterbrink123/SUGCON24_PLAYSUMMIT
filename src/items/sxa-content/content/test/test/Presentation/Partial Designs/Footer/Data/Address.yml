@@ -1,0 +1,31 @@
+﻿---
+ID: "f177597a-5574-475f-b448-8ad5ada2d22a"
+Parent: "b0a3886f-c932-4c67-aa44-a3c24b17d26b"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/test/test/Presentation/Partial Designs/Footer/Data/Address
+BranchID: "2c702d41-d44e-4501-9be0-f4b7344bfaed"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8EF575A5-3B7C-4EAE-86D0-2F4E319AE3EA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        <div style="color: gray;">
+        <span id="docs-internal-guid-17237c97-7fff-f61d-384b-b66bc74de880"></span>
+        <p><span>PLAY! Summit</span></p>
+        <p><span>1 Oak Street</span></p>
+        <p><span>A99 B44</span></p>
+        <p><span>The Nation of PLAY!</span></p>
+        <p><span>Made by <a href="https://blog.sitecoredemo.com/">Sitecore Demo Team</a></span></p>
+        <div><span><br />
+        </span></div>
+        </div>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "16a04326-2a81-45f7-835f-8166fa1934c1"

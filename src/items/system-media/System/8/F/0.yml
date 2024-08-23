@@ -1,0 +1,13 @@
+﻿---
+ID: "80bfdf0b-56dc-4c8d-9e0e-4fe902d031f9"
+Parent: "f5e938a1-08f1-40a1-8c8e-ecdf8680eee0"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/System/8/F/0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a035b3e1-76fc-4ed6-81df-39d7a8a8dda2"

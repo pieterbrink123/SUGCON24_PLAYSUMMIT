@@ -1,0 +1,25 @@
+﻿---
+ID: "71222087-4808-49f5-9aaf-40b2738670d5"
+Parent: "7a775536-197c-4c42-97fe-f3dd56583b20"
+Template: "d885df8c-b2d6-4007-b34b-2bbafb527304"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/london/Data/Image"
+BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E2ACCB43-E573-4EBF-9786-F269FC426E7A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "57caf172-ce57-4e48-b3a1-46f8aea71c08"
+      Hint: Image
+      Value: |
+        <image mediaid="{D21278BE-52FE-48C4-9477-373893D875C0}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d38cf01-8085-4172-a77c-c07bae6d2489"
